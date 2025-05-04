@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PaperMod on KCFolio</title>
+    <link>//localhost:1313/tags/papermod/</link>
+    <description>Recent content in PaperMod on KCFolio</description>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Nov 2023 23:22:26 -0700</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/papermod/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Planetario</title>
+      <link>//localhost:1313/posts/planetario/</link>
+      <pubDate>Wed, 01 Nov 2023 23:22:26 -0700</pubDate>
+      <guid>//localhost:1313/posts/planetario/</guid>
+      <description>🚀 An Exploration &amp;amp; Educational VR Space Experience!</description>
+    </item>
+  </channel>
+</rss>

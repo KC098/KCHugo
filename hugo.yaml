@@ -1,4 +1,40 @@
-baseURL: https://example.org/
+baseURL: 
 languageCode: en-us
-title: Portfolio
+title: KCFolio
 theme: PaperMod
+caches:
+  images:
+    dir: :cacheDir/images
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+
+homeInfoParams:
+    Title: "Cesar Cano's Portfolio"
+    Content: hola hola
+params:
+  ShowShareButtons: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+  
+menu:
+  main:
+    - identifier: 3d
+      name: 3D
+      url: /3d/
+      weight: 10
+    - identifier: mini_games
+      name: Mini Games
+      url: /mini_games/
+      weight: 20
+    - identifier: other
+      name: Other
+      url: /other/
+      weight: 30
