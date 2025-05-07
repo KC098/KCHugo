@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on KCFolio</title>
-    <link>/posts/</link>
+    <link>http://localhost:1313/KCHugo/posts/</link>
     <description>Recent content in Posts on KCFolio</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Apr 2024 23:28:55 -0700</lastBuildDate>
-    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/KCHugo/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Planetario</title>
-      <link>/posts/planetario/</link>
+      <link>http://localhost:1313/KCHugo/posts/planetario/</link>
       <pubDate>Wed, 01 Nov 2023 23:22:26 -0700</pubDate>
-      <guid>/posts/planetario/</guid>
+      <guid>http://localhost:1313/KCHugo/posts/planetario/</guid>
       <description>Explore 3 destinies, The Moon, Mars and Asteroid:AM06US and learn about their human discoveries, achievements, history and mysteries. With the help of the &amp;#39;Planetario Administrator&amp;#39;, up to 30 users can join the experience and the host can control when they&amp;#39;re ready to explore!</description>
     </item>
     <item>
       <title>Training Software</title>
-      <link>/posts/softwarecapacitacion/</link>
+      <link>http://localhost:1313/KCHugo/posts/softwarecapacitacion/</link>
       <pubDate>Tue, 30 Apr 2024 23:28:55 -0700</pubDate>
-      <guid>/posts/softwarecapacitacion/</guid>
+      <guid>http://localhost:1313/KCHugo/posts/softwarecapacitacion/</guid>
       <description>Train your personnel in industrial vehicles, equipment and production lines in VR!</description>
     </item>
     <item>
       <title>Sonora Tourism</title>
-      <link>/posts/sonoraturismo/</link>
+      <link>http://localhost:1313/KCHugo/posts/sonoraturismo/</link>
       <pubDate>Fri, 17 Mar 2023 23:23:38 -0700</pubDate>
-      <guid>/posts/sonoraturismo/</guid>
+      <guid>http://localhost:1313/KCHugo/posts/sonoraturismo/</guid>
       <description>A VR experience for the State of Sonora and it&amp;rsquo;s most iconic places!</description>
     </item>
   </channel>

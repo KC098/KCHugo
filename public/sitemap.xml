@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/planetario/</loc>
+    <loc>http://localhost:1313/KCHugo/posts/planetario/</loc>
     <lastmod>2023-11-01T23:22:26-07:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>http://localhost:1313/KCHugo/</loc>
     <lastmod>2025-05-04T00:45:17-07:00</lastmod>
   </url><url>
-    <loc>/me/</loc>
+    <loc>http://localhost:1313/KCHugo/me/</loc>
     <lastmod>2025-05-04T00:45:17-07:00</lastmod>
   </url><url>
-    <loc>/mini_games/</loc>
+    <loc>http://localhost:1313/KCHugo/mini_games/</loc>
     <lastmod>2025-05-02T00:45:17-07:00</lastmod>
   </url><url>
-    <loc>/3d/</loc>
+    <loc>http://localhost:1313/KCHugo/3d/</loc>
     <lastmod>2025-05-02T00:45:17-07:00</lastmod>
   </url><url>
-    <loc>/other/</loc>
+    <loc>http://localhost:1313/KCHugo/other/</loc>
     <lastmod>2025-05-02T00:45:17-07:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>http://localhost:1313/KCHugo/posts/</loc>
     <lastmod>2024-04-30T23:28:55-07:00</lastmod>
   </url><url>
-    <loc>/posts/softwarecapacitacion/</loc>
+    <loc>http://localhost:1313/KCHugo/posts/softwarecapacitacion/</loc>
     <lastmod>2024-04-30T23:28:55-07:00</lastmod>
   </url><url>
-    <loc>/tags/networking/</loc>
+    <loc>http://localhost:1313/KCHugo/tags/networking/</loc>
     <lastmod>2023-11-01T23:22:26-07:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>http://localhost:1313/KCHugo/tags/</loc>
     <lastmod>2023-11-01T23:22:26-07:00</lastmod>
   </url><url>
-    <loc>/tags/vr/</loc>
+    <loc>http://localhost:1313/KCHugo/tags/vr/</loc>
     <lastmod>2023-11-01T23:22:26-07:00</lastmod>
   </url><url>
-    <loc>/posts/sonoraturismo/</loc>
+    <loc>http://localhost:1313/KCHugo/posts/sonoraturismo/</loc>
     <lastmod>2023-03-17T23:23:38-07:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>http://localhost:1313/KCHugo/categories/</loc>
   </url>
 </urlset>
