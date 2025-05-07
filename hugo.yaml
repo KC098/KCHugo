@@ -1,4 +1,6 @@
 baseURL: 
+canonifyurls: true
+relativeURLs: false
 languageCode: en-us
 title: KCFolio
 theme: PaperMod

@@ -45,7 +45,7 @@ I was the lead developer of the proyect managing multiple areas, handling the li
 - Designed the information interface
 - Designed the user message interface
 - Designed the Planetario Administrator
-![Captura](/planetario/planetario_admin.webp "Planetario Administrador")
+![Captura](/images/planetario/planetario_admin.webp "Planetario Administrador")
 _Planetario Administriator Program_
 ## Networking
 ---
@@ -59,9 +59,9 @@ Most of the modeling and texturing was made by my workmate.
 I made some models here and there but my most notorious would be:
 - Gloves
 - Terrains (Mars & The Moon)
-![Captura](/planetario/mars_1.webp "Marte")
+![Captura](/images/planetario/mars_1.webp "Marte")
 
-![Captura](/planetario/moon_1.webp "La Luna")
+![Captura](/images/planetario/moon_1.webp "La Luna")
 
 
 ## Materials & VFX
@@ -76,14 +76,14 @@ I handled the effects on the project both particles and shader-type effects.
 - Reflections
 - Explosions
 - Skyboxes
-![Captura](/planetario/launchsite_1.webp "Zona de Despegue")
-![Captura](/planetario/launchsite_2.webp "Espacio")
-![Captura](/planetario/asteroid_2.webp "Asteroide")
+![Captura](/images/planetario/launchsite_1.webp "Zona de Despegue")
+![Captura](/images/planetario/launchsite_2.webp "Espacio")
+![Captura](/images/planetario/asteroid_2.webp "Asteroide")
 
 
 # Captures
 ---
-![Captura](/planetario/capture_1.webp "Planetario Parque Infantil")
+![Captura](/images/planetario/capture_1.webp "Planetario Parque Infantil")
 _Capture of "Parque Infantil" Hermosillo, Sonora_
 
 
