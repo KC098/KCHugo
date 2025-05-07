@@ -1,4 +1,5 @@
 ---
+baseurl: https://kc098.github.io/KCHugo/other
 title: 'Other'
 url: /other/
 description: Here's some other things that I've done!
