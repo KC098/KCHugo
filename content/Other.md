@@ -1,6 +1,5 @@
 ---
 title: 'Other'
-url: /other/
 description: Here's some other things that I've done!
 date: '2025-05-02T00:45:17-07:00'
 

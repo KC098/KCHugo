@@ -1,5 +1,4 @@
 baseURL: 
-relativeURLs: true
 languageCode: en-us
 title: KCFolio
 theme: PaperMod
@@ -28,24 +27,24 @@ menu:
   main:
     - identifier: me
       name: Me
-      url: /me/
+      url: me/
       baseurl: https://kc098.github.io/KCHugo/me/
       weight: 1
     - identifier: 3d
       baseurl: https://kc098.github.io/KCHugo/3d/
 
       name: 3D
-      url: /3d/
+      url: 3d/
       weight: 10
     - identifier: mini_games
       baseurl: https://kc098.github.io/KCHugo/mini_games/
 
       name: Mini Games
-      url: /mini_games/
+      url: mini_games/
       weight: 20
     - identifier: other
       baseurl: https://kc098.github.io/KCHugo/other/
 
       name: Other
-      url: /other/
+      url: other/
       weight: 30
