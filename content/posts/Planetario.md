@@ -1,4 +1,5 @@
 ---
+baseurl: https://kc098.github.io/KCHugo
 date: '2023-11-01T23:22:26-07:00'
 title: 'Planetario'
 author: [IM]
