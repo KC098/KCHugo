@@ -1,5 +1,5 @@
 ---
-baseurl: https://kc098.github.io/KCHugo/me
+baseurl: https://kc098.github.io/KCHugo/me/
 date: '2025-05-04T00:45:17-07:00'
 title: 'Me'
 description: Stuff about me.
