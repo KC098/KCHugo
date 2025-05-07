@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>VR on KCFolio</title>
-    <link>http://localhost:1313/KCHugo/tags/vr/</link>
+    <link>//localhost:1313/tags/vr/</link>
     <description>Recent content in VR on KCFolio</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Nov 2023 23:22:26 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/KCHugo/tags/vr/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/vr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Planetario</title>
-      <link>http://localhost:1313/KCHugo/posts/planetario/</link>
+      <link>//localhost:1313/posts/planetario/</link>
       <pubDate>Wed, 01 Nov 2023 23:22:26 -0700</pubDate>
-      <guid>http://localhost:1313/KCHugo/posts/planetario/</guid>
+      <guid>//localhost:1313/posts/planetario/</guid>
       <description>Explore 3 destinies, The Moon, Mars and Asteroid:AM06US and learn about their human discoveries, achievements, history and mysteries. With the help of the &amp;#39;Planetario Administrator&amp;#39;, up to 30 users can join the experience and the host can control when they&amp;#39;re ready to explore!</description>
     </item>
   </channel>

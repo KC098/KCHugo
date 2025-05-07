@@ -1,4 +1,6 @@
-baseURL: https://kc098.github.io/KCHugo/
+baseURL: 
+canonifyurls: true
+relativeURLs: false
 languageCode: en-us
 title: KCFolio
 theme: PaperMod
