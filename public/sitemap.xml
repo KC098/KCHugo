@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kc098.github.io/KCHugo/posts/planetario/</loc>
+    <loc>/posts/planetario/</loc>
     <lastmod>2023-11-01T23:22:26-07:00</lastmod>
   </url><url>
-    <loc>https://kc098.github.io/KCHugo/</loc>
+    <loc>/</loc>
     <lastmod>2025-05-04T00:45:17-07:00</lastmod>
   </url><url>
-    <loc>https://kc098.github.io/KCHugo/me/</loc>
+    <loc>/me/</loc>
     <lastmod>2025-05-04T00:45:17-07:00</lastmod>
   </url><url>
-    <loc>https://kc098.github.io/KCHugo/mini_games/</loc>
+    <loc>/mini_games/</loc>
     <lastmod>2025-05-02T00:45:17-07:00</lastmod>
   </url><url>
-    <loc>https://kc098.github.io/KCHugo/3d/</loc>
+    <loc>/3d/</loc>
     <lastmod>2025-05-02T00:45:17-07:00</lastmod>
   </url><url>
-    <loc>https://kc098.github.io/KCHugo/other/</loc>
+    <loc>/other/</loc>
     <lastmod>2025-05-02T00:45:17-07:00</lastmod>
   </url><url>
-    <loc>https://kc098.github.io/KCHugo/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2024-04-30T23:28:55-07:00</lastmod>
   </url><url>
-    <loc>https://kc098.github.io/KCHugo/posts/softwarecapacitacion/</loc>
+    <loc>/posts/softwarecapacitacion/</loc>
     <lastmod>2024-04-30T23:28:55-07:00</lastmod>
   </url><url>
-    <loc>https://kc098.github.io/KCHugo/tags/networking/</loc>
+    <loc>/tags/networking/</loc>
     <lastmod>2023-11-01T23:22:26-07:00</lastmod>
   </url><url>
-    <loc>https://kc098.github.io/KCHugo/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2023-11-01T23:22:26-07:00</lastmod>
   </url><url>
-    <loc>https://kc098.github.io/KCHugo/tags/vr/</loc>
+    <loc>/tags/vr/</loc>
     <lastmod>2023-11-01T23:22:26-07:00</lastmod>
   </url><url>
-    <loc>https://kc098.github.io/KCHugo/posts/sonoraturismo/</loc>
+    <loc>/posts/sonoraturismo/</loc>
     <lastmod>2023-03-17T23:23:38-07:00</lastmod>
   </url><url>
-    <loc>https://kc098.github.io/KCHugo/categories/</loc>
+    <loc>/categories/</loc>
   </url>
 </urlset>

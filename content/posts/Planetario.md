@@ -21,9 +21,10 @@ description: Explore 3 destinies, The Moon, Mars and Asteroid:AM06US and learn a
 Teach people about the wonders of space in a fun, inmersive and educational way.
 # Role
 ---
-I was the lead developer of the proyect managing multiple areas, handling the lightning and export builds.
+I was the lead developer of the proyect managing multiple areas, making sure models were properly made for the platform and handling the lightning and export builds.
+
 ## Software Used:
-- Unity 2022.3
+- Unity 2021.3
 - Blender 3
 - Substance Painter
 - Material Maker
